@@ -1,12 +1,25 @@
 package acceptance;
 
-import cucumber.annotation.en.Given;
-import cucumber.api.PendingException;
+import com.devrider.study.domain.Customer;
+import com.devrider.study.domain.CustomerRepository;
+import cucumber.api.DataTable;
+import cucumber.api.java8.En;
 
-public class CustomerSteps {
-    @Given("^clients exist:$")
-    public void clientsExist() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
+import java.util.List;
+import java.util.Map;
+
+import static org.junit.Assert.assertEquals;
+
+public class CustomerSteps implements En {
+    public CustomerSteps(CustomerRepository customerRepository) {
+        Given("^clients exist:$", (DataTable dataTable) -> {
+           List<Map<String, String>> dataMaps = dataTable.asMaps(String.class, String.class);
+           dataMaps.forEach((dataMap) -> {
+               Customer customer = new Customer(dataMap.get("id"), dataMap.get("firstName"), dataMap.get("lastName"));
+               customerRepository.add(customer);
+               assertEquals(customer, customerRepository.all());
+           });
+
+        });
     }
 }

@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/acceptance/CustomerSteps.java" line="16" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c27042-a4b1-4da7-bbb7-8728a6c48a59" name="Default Changelist" comment="" />
+    <list default="true" id="73c27042-a4b1-4da7-bbb7-8728a6c48a59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devrider/study/adapters/InMemoryCustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devrider/study/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devrider/study/domain/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/acceptance/configuration/ContextTestingConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/acceptance/configuration/RepositoriesConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/acceptance/AllAcceptanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/acceptance/AllAcceptanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/acceptance/CustomerSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/acceptance/CustomerSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/acceptance/GuitarSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/acceptance/GuitarSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/acceptance/OrderSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/acceptance/OrderSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/acceptance/StockSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/acceptance/StockSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,15 +74,41 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="java" value="797" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="797" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="groovy" value="1" />
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="119">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -72,16 +116,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/any-client_orderProduct.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+            <state relative-caret-position="187">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/AllAcceptanceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="187">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,16 +138,43 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/OrderSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="4" selection-end-column="37" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/StockSteps.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/configuration/RepositoriesConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/devrider/study/adapters/InMemoryCustomerRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/configuration/ContextTestingConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,28 +183,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/CustomerSteps.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/devrider/study/domain/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/GuitarSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state relative-caret-position="51">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -143,6 +196,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -161,12 +216,23 @@
         <option value="$PROJECT_DIR$/src/test/java/acceptance/ClientSteps.java" />
         <option value="$PROJECT_DIR$/src/test/resources/any-client_orderProduct.feature" />
         <option value="$PROJECT_DIR$/src/test/java/acceptance/AllAcceptanceTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/acceptance/OrderSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/OrderSteps.groovy" />
+        <option value="$PROJECT_DIR$/src/test/resources/GuitarSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/UserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/StockSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/acceptance/StockSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/acceptance/CustomerSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/acceptance/OrderSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/acceptance/GuitarSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/acceptance/com/devrider/study/domain/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/devrider/study/domain/Customer.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/devrider/study/InMemoryCustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/acceptance/configuration/RepositoriesConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/acceptance/CustomerSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/devrider/study/domain/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/devrider/study/adapters/InMemoryCustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/acceptance/configuration/ContextTestingConfiguration.java" />
       </list>
     </option>
   </component>
@@ -183,10 +249,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="96" />
-    <option name="y" value="61" />
-    <option name="width" value="1400" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="92" />
+    <option name="y" value="40" />
+    <option name="width" value="1711" />
     <option name="height" value="926" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -216,44 +282,77 @@
         <subPane>
           <expand>
             <path>
-              <item name="guitarstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guitarstore" type="462c0819:PsiDirectoryNode" />
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="guitarstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guitarstore" type="462c0819:PsiDirectoryNode" />
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="guitarstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guitarstore" type="462c0819:PsiDirectoryNode" />
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="guitarstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guitarstore" type="462c0819:PsiDirectoryNode" />
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="adapters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="guitarstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guitarstore" type="462c0819:PsiDirectoryNode" />
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="guitarstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guitarstore" type="462c0819:PsiDirectoryNode" />
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="acceptance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="guitarstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guitarstore" type="462c0819:PsiDirectoryNode" />
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="acceptance" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guitar-store-ddd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guitar-store-ddd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -269,8 +368,23 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539626332034" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539633712526" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/guitarstore/src/test/java/acceptance" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.devrider.study.adapters" />
+      <recent name="com.devrider.study" />
+      <recent name="com.devrider.study.domain" />
+      <recent name="acceptance.com.devrider.study.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Antoine\workspace\guitar-store-ddd\src\test\java\acceptance" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -317,44 +431,72 @@
       <updated>1539548872727</updated>
       <workItem from="1539548878226" duration="4710000" />
       <workItem from="1539625408286" duration="751000" />
-      <workItem from="1539626454675" duration="29000" />
+      <workItem from="1539626454675" duration="4855000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AllAcceptanceTest - 2018.10.15 at 19h 53m 23s.xml">
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 06m 48s.xml">
       <configuration name="AllAcceptanceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllAcceptanceTest - 2018.10.15 at 19h 55m 47s.xml">
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 12m 06s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 20m 48s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 24m 54s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 25m 26s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 29m 01s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 30m 28s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 33m 37s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 45m 18s.xml">
+      <configuration name="AllAcceptanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllAcceptanceTest - 2018.10.15 at 21h 59m 53s.xml">
       <configuration name="AllAcceptanceTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5490000" />
+    <option name="totallyTimeSpent" value="10316000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="699" y="133" width="1711" height="926" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20775288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.4284165" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.61417323" visible="true" weight="0.41919193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.38503253" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49626866" weight="0.3275488" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.38582677" side_tool="true" visible="true" weight="0.41919193" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49253732" weight="0.3275488" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -378,23 +520,77 @@
     <entry file="file://$PROJECT_DIR$/guitarstore.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/AllAcceptanceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/StockSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/OrderSteps.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/GuitarSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/any-client_orderProduct.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+        <state relative-caret-position="187">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/AllAcceptanceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/StockSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="85">
+          <caret line="6" column="80" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/OrderSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -402,43 +598,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/OrderSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/GuitarSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/StockSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/devrider/study/domain/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/devrider/study/InMemoryCustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/configuration/RepositoriesConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/CustomerSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="187">
+          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/UserSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/devrider/study/domain/CustomerRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/GuitarSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/devrider/study/adapters/InMemoryCustomerRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="136">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/acceptance/configuration/ContextTestingConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>guitarstore</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: info.cukes:cucumber-core:1.2.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
