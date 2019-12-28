@@ -1,1 +1,2 @@
-# guitar-store-ddd
+# Guitar store developped with BDD and TDD
+[IN PROGRESS]
